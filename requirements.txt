@@ -1,0 +1,7 @@
+timm==0.4.5
+natsort
+tensorboard
+nltk
+h5py
+numpy
+fastwer
